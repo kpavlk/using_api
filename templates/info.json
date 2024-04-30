@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Энди",
+    "surname": "Уир",
+    "photo": "https://downloader.disk.yandex.ru/preview/427644db59b893f447fea4b08ccf70ec1a989e5dfae62311d9a4e02814afaaf1/66316311/RChRpqy2TIWcXq_TIKHZX0gBe4ZESaSndxY_PNjld1RmhzxDz6lFXarij0N8-IbpbL-otNAek2SIDGmsNY-RLQ%3D%3D?uid=0&filename=Снимок%20экрана%202024-04-30%20182918.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048",
+    "professions": "астрогеолог, специалист по радиационной защите"
+  },
+  {
+    "name": "Илон",
+    "surname": "Маск",
+    "photo": "https://banzay.ru/files/cb8abff314ac4c04649b2beb78f3ef4d.jpeg",
+    "professions": "бизнесмен"
+  },
+  {
+    "name": "Нил",
+    "surname": "Армстронг",
+    "photo": "https://downloader.disk.yandex.ru/preview/44b42024a08e5b7a843bf29689822ea6a1578092961e432bd8f48c6e27cf7ccd/66316326/RChRpqy2TIWcXq_TIKHZX0gBe4ZESaSndxY_PNjld1RmhzxDz6lFXarij0N8-IbpbL-otNAek2SIDGmsNY-RLQ%3D%3D?uid=0&filename=Снимок%20экрана%202024-04-30%20182918.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048",
+    "professions": "астронавт"
+  }
+
+]
